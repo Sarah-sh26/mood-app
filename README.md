@@ -1,16 +1,47 @@
-# mood
+💜 Daily Mood Companion
 
-A new Flutter project.
+A simple and cute one-page Flutter application that helps users track their mood, choose their environment, add music preferences, and set daily goals — all without using any database.
 
-## Getting Started
+This project was developed as part of the
+CSCI410 – Mobile Application Development course at the Lebanese International University (LIU).
 
-This project is a starting point for a Flutter application.
+✨ Features
+💬 Mood Selection
 
-A few resources to get you started if this is your first Flutter project:
+Choose your mood: Happy, Sad, Stressed, Bored, or Tired.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The app generates a motivational message based on the selected mood.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🏠 Indoor / Outdoor
+
+Choose your environment using radio buttons.
+
+🎵 Music Option
+
+Toggle whether you want to add music to your day.
+
+🎯 Daily Goals
+
+Write your main goal for the day to stay focused and motivated.
+
+🛠️ Technologies Used
+
+Flutter
+
+Dart
+
+Material Design
+
+Google Fonts
+
+📱 How to Use
+
+Select your mood from the dropdown menu
+
+Choose indoor or outdoor
+
+Toggle the music option
+
+Enter your daily goal
+
+The app displays a personalized motivational message
